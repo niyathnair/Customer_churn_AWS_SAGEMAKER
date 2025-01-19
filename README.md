@@ -11,7 +11,6 @@ This repository provides a framework for predicting customer churn using AWS Sag
 5. [Usage](#usage)
 6. [Folder Structure](#folder-structure)
 7. [Technologies](#technologies)
-8. [License](#license)
 
 ## Overview
 
